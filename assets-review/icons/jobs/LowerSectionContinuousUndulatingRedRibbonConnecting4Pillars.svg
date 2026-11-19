@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1440" height="300" viewBox="0 0 1440 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG Sinusoidal Connecting Ribbon Line across all 4 Nodes &#226;&#134;&#146; SVG" clip-path="url(#clip0_0_60)">
+<path id="Vector" opacity="0.8" d="M-21.4286 206.25C38.4821 150 93.4003 93.75 146.321 71.25C198.244 48.75 278.125 173.437 482.82 54.375C617.619 -18.75 697.5 18.75 789.363 4.6875C887.217 -9.375 1017.02 79.6875 1134.85 63.75C1196.76 56.25 1276.64 103.125 1366.5 131.25" stroke-width="1.93601" stroke-linecap="round" stroke="#FF3838"/>
+<path id="Vector_2" opacity="0.15" d="M-21.4286 206.25C38.4821 150 93.4003 93.75 146.321 71.25C198.244 48.75 278.125 173.437 482.82 54.375C617.619 -18.75 697.5 18.75 789.363 4.6875C887.217 -9.375 1017.02 79.6875 1134.85 63.75C1196.76 56.25 1276.64 103.125 1366.5 131.25" stroke-width="5.80804" stroke-linecap="round" stroke="#FF8A8A"/>
+</g>
+<defs>
+<clipPath id="clip0_0_60">
+<rect width="1440" height="300" fill="white"/>
+</clipPath>
+</defs>
+</svg>
